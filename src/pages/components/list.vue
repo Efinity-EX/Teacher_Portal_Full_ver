@@ -36,8 +36,7 @@ import * as demoCode from '@/views/demos/components/list/demoCodeList'
         :code="demoCode.rounded"
       >
         <VCardText>
-          You can make <code>v-list-item</code> rounded using
-          <code>rounded</code> prop.
+          You can make <code>v-list-item</code> rounded using <code>rounded</code> prop.
         </VCardText>
 
         <VCardText>
@@ -79,9 +78,8 @@ import * as demoCode from '@/views/demos/components/list/demoCodeList'
         :code="demoCode.nav"
       >
         <VCardText>
-          Lists can receive an alternative <code>nav</code> styling that reduces the
-          width <code>v-list-item</code> takes up as well as adding a border
-          radius.
+          Lists can receive an alternative <code>nav</code> styling that reduces the width
+          <code>v-list-item</code> takes up as well as adding a border radius.
         </VCardText>
 
         <VCardText>
@@ -165,8 +163,7 @@ import * as demoCode from '@/views/demos/components/list/demoCodeList'
       >
         <VCardText>
           For three line lists, the subtitle will clamp vertically at 2 lines and then
-          ellipsis. This feature uses line-clamp and is not supported in all
-          browsers.
+          ellipsis. This feature uses line-clamp and is not supported in all browsers.
         </VCardText>
 
         <VCardText>
